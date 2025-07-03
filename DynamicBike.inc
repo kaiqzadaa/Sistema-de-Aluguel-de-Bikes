@@ -5,11 +5,6 @@
 
 */
 
-/*
-                              module bike
-                           23/11/2024 | 02:13H
-*/
-
 #include <YSI_Coding\y_hooks>
 
 /*
